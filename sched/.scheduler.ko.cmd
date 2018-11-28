@@ -1,0 +1,1 @@
+cmd_/home/hwang/64taskforcecrypted/sched/scheduler.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/hwang/64taskforcecrypted/sched/scheduler.ko /home/hwang/64taskforcecrypted/sched/scheduler.o /home/hwang/64taskforcecrypted/sched/scheduler.mod.o ;  true

@@ -1,0 +1,1 @@
+cmd_/home/hwang/64taskforcecrypted/register2/register2.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/hwang/64taskforcecrypted/register2/register2.ko /home/hwang/64taskforcecrypted/register2/register2.o /home/hwang/64taskforcecrypted/register2/register2.mod.o ;  true
